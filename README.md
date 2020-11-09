@@ -16,7 +16,7 @@ et le lien entre une variable quantitative et une autre et également avec une v
 
 
 
-On passe aux jeu de données de la prédiction de la valeur médiane du prix de logement et on effectue un apprentissage automatique avec les bases de l'apprentissage profond et les problématiques de réglages d'hyper paramètres 
+On passe aux jeu de données de l'ensemble des transactions immobilières de la ville de boston  et on effectue un apprentissage automatique avec les bases de l'apprentissage profond et les problématiques de réglages d'hyper paramètres 
 
 
 
